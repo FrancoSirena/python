@@ -4,8 +4,8 @@ Python fundamentals
 ## Tree
 Tree implementation with a get tallest method
 
-##fem
+## fem
 FrontEnd masters course about Python
 
-##basics
+## basics
 EggHead basic course about Python 3
